@@ -45,7 +45,7 @@ npm install bcrypt
 ```
 ## Instalamos jwt:
 ```sh
-npm i jasonwebtoken
+npm i jsonwebtoken
 ```
 ```sh
 creamos modelo
